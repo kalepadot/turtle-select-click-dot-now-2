@@ -1,0 +1,27 @@
+#myLight {
+  background-image:url(myPics);
+  width:475px;
+  height:475px;
+  float: left;
+  margin-left: 0px;
+  }
+  h1{
+    text-align: center;
+    color: rgb(219, 10, 174);
+  }
+  body{
+    background-color: chartreuse;
+  }
+  /* #myLight2 {
+    background-image:url(myPics);
+    width:500px;
+    height:500px;
+    float: left;
+    } */
+   
+    /* .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    } */
